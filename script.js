@@ -19,7 +19,7 @@ function initAnimations() {
           scrub: 1,
           pin: true,
           //pinSpacing: true,
-          markers:true,
+          //markers:true,
           onComplete: function() {
             // Function to run when the animation is complete
             console.log("Animation finished!");
